@@ -28,7 +28,7 @@ export const CourseTitleAndDurationContainer=styled.div`
      align-items:center;
      `
 
-     export const Duration =styled.p
+     export const Duration =styled.p`
        color: #171f46;
        font-family:'Roboto';
        font-size:12px;
@@ -38,6 +38,7 @@ export const CourseTitleAndDurationContainer=styled.div`
          @media screen and (min-width:768px){
              font-size:14px;
          } 
+         `
 
          export const CourseDescription = styled.p`
          color: #1e293b;

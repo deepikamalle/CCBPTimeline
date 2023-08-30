@@ -10,7 +10,7 @@ import {
   Duration,
   ProjectDescription,
   VisitLink,
-} from './styledComponents'
+} from './StyledComponents'
 
 const ProjectTimelineCard = props => {
   const {projectDetails} = props

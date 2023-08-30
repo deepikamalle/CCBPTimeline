@@ -9,7 +9,7 @@ import {
   HeaderContainer,
   Heading,
   CCBPHeading,
-} from './styledComponents'
+} from './StyledComponents'
 
 const TimelineView = props => {
   const {timelineItemList} = props
